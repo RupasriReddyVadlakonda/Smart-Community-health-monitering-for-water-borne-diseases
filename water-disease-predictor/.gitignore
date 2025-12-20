@@ -1,0 +1,11 @@
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/model.pkl
+backend/model_meta.json
+backend/users.json
+backend/.DS_Store
+frontend/.DS_Store
+*.log
+.venv/
+.env
